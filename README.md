@@ -1,0 +1,2 @@
+# IDENTIFICACI-N-DE-COMPONENTES-ARM-NICAS-EN-UNA-SE-AL-DE-AUDIO
+Para el desarrollo de este trabajo se utilizó LabVIEW como  entorno de programación, aprovechando sus capacidades de  procesamiento de señales y su interfaz gráfica para la  visualización de resultados en tiempo real. Se implementó un  sistema de adquisición de audio mediante el micrófono del  computador, permitiendo capturar señales acústicas
